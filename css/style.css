@@ -48,6 +48,6 @@ figcaption {
 }
 
 /* Pseudo Selector */
-section:link {
+#details a:link {
   
 }
